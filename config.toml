@@ -1,0 +1,21 @@
+[tools]
+node = "latest"
+act = "latest"
+bun = "latest"
+babashka = "latest"
+clojure = "latest"
+leiningen = "latest"
+hey = "latest"
+jq = "latest"
+yarn = "latest"
+rust = "latest"
+gleam = "latest"
+erlang = "latest"
+1password-cli = "latest"
+github-cli = "latest"
+go = "latest"
+java = "latest"
+k9s = "latest"
+
+[settings]
+experimental = true
